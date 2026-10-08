@@ -1,7 +1,7 @@
 # Projeto G1 — Desmatamento e Preservação Ambiental no Brasil
 
-**Autor:** Marcelo Barbosa de Oliveira Junior  
-**Disciplina:** Linguagem de Programação — Análise e Visualização de Dados com Python  
+**Autor:** Marcelo Barbosa de Oliveira Junior<br>
+**Disciplina:** Linguagem de Programação — Análise e Visualização de Dados com Python<br>
 **Tema 19 • Base simulada de 2015 a 2024**
 
 ## Objetivo
